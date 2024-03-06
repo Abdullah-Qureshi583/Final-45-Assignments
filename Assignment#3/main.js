@@ -1,6 +1,9 @@
 "use strict";
-// Storing a famous quote and its author.
-let quote = "A person who never made a mistake never tried anything new.";
-let author = "Albert Einstein";
-//Printing the message.
-console.log(`${author} once said, "${quote}"`);
+// Storing a person name in a variable.
+let personName = "Abdullah Qureshi";
+//Printing a person name in lowercase.
+console.log("Lowercase : ", personName.toLowerCase());
+//Printing a person name in Uppercase.
+console.log("Uppercase : ", personName.toUpperCase());
+//Printing a person name in Titlecase.
+console.log("Titlecase : ", personName.toLocaleUpperCase());

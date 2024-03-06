@@ -1,15 +1,7 @@
-// Storing a person name in a variable.
+// Storing a person name in a variabe
 
-let personName : string = "Abdullah Qureshi";
+let personName : string = "Abdulllah";
 
-//Printing a person name in lowercase.
+// Printing a message to the person.
 
-console.log("Lowercase : ",personName.toLowerCase());
-
-//Printing a person name in Uppercase.
-
-console.log("Uppercase : ",personName.toUpperCase());
-
-//Printing a person name in Titlecase.
-
-console.log("Titlecase : ",personName.toLocaleUpperCase());
+console.log(`Hello ${personName} would you like to learn some Python today?`);
