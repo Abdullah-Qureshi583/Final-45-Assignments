@@ -8,8 +8,12 @@ personName = "\n\t Abdullah \t ";
 
 //Printing the message.
 
-console.log(personName)
+console.log(`Person Name with White space:${personName}`)
+
+// adding stripped character to person name
+
+let strippedName : string = personName.trim();
 
 //Printing the message without whitespace.
 
-console.log(personName.trim());
+console.log(`Stripped name: ${strippedName}`);

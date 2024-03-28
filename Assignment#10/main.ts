@@ -4,6 +4,8 @@
 
 let myName : string = "Abdullah Qureshi";
 
-let message : string = `Hello ${myName} you are trying to attempt "Assignment # 10"`
+let message : string = `Hello ${myName}! you are trying to attempt "Assignment # 10"`
+
+// Printing the message
 
 console.log(message);

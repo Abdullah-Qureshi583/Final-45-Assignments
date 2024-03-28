@@ -2,8 +2,8 @@
 
 let names : string[] = ["Abdullah","Arif","Adil","Anas", "Ali","Zahid"];
 
-// Add a message with name and use for-in loop to print the one by one.
+// Add a message with name and use for loop to print the one by one.
 
-for(let name in names){
-    console.log(`${name}. Hello  ${names[name]} You are my friend.`);
+for(let i = 0; i < names.length; i++) {
+    console.log(`${i+1}. Hello ${names[i]}! How are you taday?` );
 }
