@@ -4,6 +4,8 @@ let personName = "Abdullah ";
 //Adding line scape character in person name.
 personName = "\n\t Abdullah \t ";
 //Printing the message.
-console.log(personName);
+console.log(`Person Name with White space:${personName}`);
+// adding stripped character to person name
+let strippedName = personName.trim();
 //Printing the message without whitespace.
-console.log(personName.trim());
+console.log(`Stripped name: ${strippedName}`);
