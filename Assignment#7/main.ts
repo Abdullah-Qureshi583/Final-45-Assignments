@@ -23,7 +23,7 @@ console.log(`Multiplication result: ${mul}`);
 let div : number = 32 / 4; 
 
 //Printing the message.
-console.log(`Division result: ${div}`);
+console.log(`Division result: ${div} `);
 
 
 

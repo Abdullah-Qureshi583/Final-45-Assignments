@@ -1,11 +1,11 @@
-// this question is onwards to assignment # 14
-// This is Assignment # 15
+// this question is onwards to assignment # 15
+// This is Assignment # 16
 // Storing guest list in an array.
 var guestList = ["Abdullah", "Ali", "Arif"];
 //Print a message that we found a bigger dinner table.
 console.log("\n*************************************");
 console.log("Great News! We found a bigger dinner table ");
-console.log("*************************************");
+console.log("*************************************\n");
 // Adding one guest(Zahid) to the biginning of the list by using unshift method.
 guestList.unshift("Zahid");
 // Adding one guest(Waqas) at the end of the list by using push method.

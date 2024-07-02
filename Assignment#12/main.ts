@@ -1,6 +1,6 @@
 // Storing names in an Array.
 
-let names : string[] = ["Abdullah","Arif","Adil","Anas", "Ali","Zahid"];
+let names : string[] = ["Abdullah", "Arif", "Adil", "Anas", "Ali", "Zahid"];
 
 // Add a message with name and use for loop to print the one by one.
 

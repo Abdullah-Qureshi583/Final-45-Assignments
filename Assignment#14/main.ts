@@ -7,5 +7,4 @@ let guestList : string[] = ["Abdullah", "Ali", "Adeel"]
 
 guestList.forEach((guest : string) =>{
     console.log(`Dear ${guest}, you are cardially invited to dinner.`);
-    
 })

@@ -26,6 +26,7 @@ guestList.splice(Math.floor(guestList.length/2) ,0, "Jawad");
 
 // // Printing message to invite all guestList.
 
+
 guestList.forEach((guest : string) => {
     console.log(`Dear ${guest}, you are cardially invited to dinner.\n`);
 });

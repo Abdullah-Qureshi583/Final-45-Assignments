@@ -21,7 +21,6 @@ guestList.pop();
 guestList.push("Arif");
 
 // Printing message to invite all guestList.
-
 guestList.forEach((guest : string) => {
     console.log(`Dear ${guest}, you are cardially invited to dinner.\n`);
 });

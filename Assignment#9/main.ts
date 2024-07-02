@@ -8,4 +8,4 @@ let message = ` My favourite number is ${favouriteNumber}`;
 
 // Printing the message.
 
-console.log(message);
+console.log(message );

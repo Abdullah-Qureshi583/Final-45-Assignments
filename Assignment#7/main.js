@@ -14,4 +14,4 @@ console.log(`Multiplication result: ${mul}`);
 // Division
 let div = 32 / 4;
 //Printing the message.
-console.log(`Division result: ${div}`);
+console.log(`Division result: ${div} `);

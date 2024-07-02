@@ -6,4 +6,4 @@ let message : string = `${famousPerson} once said, A person who never made a mis
 
 //Printing the message.
 
-console.log(message);
+console.log( message);

@@ -9,6 +9,5 @@ let names : string[] = ["Abdullah","Arif","Adil","Anas", "Ali","Zahid"];
 // }
 
 names.forEach(name =>{
-    console.log(name);
-    
+    console.log(name); 
 });

@@ -16,4 +16,4 @@ let strippedName : string = personName.trim();
 
 //Printing the message without whitespace.
 
-console.log(`Stripped name: ${strippedName}`);
+console.log(`Stripped name: ${ strippedName}`);
